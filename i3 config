@@ -16,7 +16,7 @@ font pango:DejaVu Sans Mono 8
 
 # window color #border #bkgrnd #text  #focus
 client.focused #000000 #000000 #000000 0#000000
-client.placeholder #000000 #000000 #000000 #000000
+client.placeholder #000000 #222222 #000000 #000000
 focus_follows_mouse no
 
 
